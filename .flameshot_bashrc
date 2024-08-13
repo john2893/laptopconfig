@@ -1,0 +1,5 @@
+# cat ~/bin/flameshotgui
+#!/bin/bash
+QT_QPA_PLATFORM=wayland flameshot gui
+# map ALT-P to that script
+# use alt-p for flameshot 
